@@ -246,9 +246,9 @@ _ F1         _ F2         _ F3         _ F4        _ F5            _ F6         
 
         alt_layer {
             bindings = <
-_ RA(Q)      _ RA(W)      _ RA(E)      _ RA(R)     _ RA(T)         _ RA(Y)      _ RA(U)      _ RA(I)      _ RA(O)      _ RA(LBKT)
+_ RA(Q)      _ RA(W)      _ RA(E)      _ RA(R)     _ RA(T)         _ RA(Y)      _ RA(U)      _ RA(I)      _ RA(O)      _ RA(P)
 _ RA(A)      _ RA(S)      _ RA(D)      _ RA(F)     _ RA(G)         _ RA(H)      _ RA(J)      _ RA(K)      _ RA(L)      _ RA(SEMI)
-_ RA(Z)      _ RA(X)      _ RA(C)      _ RA(V)     _ RA(B)         _ RA(N)      _ RA(M)      _ RA(RBKT)  _ RA(DOT)    _ RA(FSLH)
+_ RA(Z)      _ RA(X)      _ RA(C)      _ RA(V)     _ RA(B)         _ RA(N)      _ RA(M)      _ RA(COMMA)  _ RA(DOT)    _ RA(FSLH)
                           ______       _ NBSP      _ LSHFT         ______       ______       ______
             >;
         };

@@ -27,8 +27,8 @@
 #define BSL RA(BSLH)
 #define NBSP RA(SPACE)
 
-#define NSPC LC(LG(RIGHT))
-#define PSPC LC(LG(LEFT))
+#define NSPC LC(RIGHT)
+#define PSPC LC(LEFT)
 
 // custom implementation of modified callum-mods,
 // which can be released on second keypress
